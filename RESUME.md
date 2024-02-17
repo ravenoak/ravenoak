@@ -1,7 +1,7 @@
-# Objective:
+# Objective
 To obtain a challenging position where I can leverage my extensive experience in software engineering, leadership, and diverse technical skills to drive innovation and deliver exceptional results.
 
-# Summary:
+# Summary
 Dynamic and creative professional with over two decades of experience in software engineering, system administration, and technical leadership roles. Proven track record of solving complex problems, implementing innovative solutions, and driving operational excellence. Seeking opportunities to apply my diverse skill set and domain expertise in a dynamic and challenging environment.
 
 # Skills
@@ -32,7 +32,7 @@ Dynamic and creative professional with over two decades of experience in softwar
 * Implemented and maintained configuration management tools, streamlining software deployment and ensuring consistency across environments.
 * Deployed and maintained virtualized environments, leveraging technologies such as Xen and VMware ESX for efficient resource utilization and scalability.
 
-# Personal Projects and Skills:
+# Personal Projects and Skills
 My diverse interests and projects include:
 * Designing and building simple circuits for mixed analog and digital applications
 * Developing embedded systems using microprocessors and FPGAs
@@ -44,7 +44,7 @@ My diverse interests and projects include:
 * Exploring avionics and Unmanned Autonomous Vehicle (UAV) design
 * Holding an FCC HA (Amateur) General License: KG7RTB
 
-# Professional Experience:
+# Professional Experience
 ## October 2022 - January 2024 :: CircleCI :: Sr. Security Engineer
 Lead effort to transform the team from a primarily service desk style team, freeing up time to focus on investigating events. Used Terraform to migrate resources to a IaC paradigm. Provided Terraform expertise to the team. Created and continuously improved a self-serve process of AWS permissions granting. Utilized Lacework for monitoring and investigating events. Integrated various systems into a 3rd party MDR that also provided Tier 1 SOC capabilities.
 
@@ -72,6 +72,6 @@ Performed hardware setup and maintenance for Dell servers, Linux OS setup and ad
 ## May 2002 - March 2009  ::  EasyStreet Online Services, Inc.  ::  Linux System Administrator
 Performed hardware setup and maintenance for HP servers, Linux OS setup and administration, administrator level customer support, email server administration, VMware ESX setup and administration, small application development for internal use.
 
-# Education and Training:
+# Education and Training
 * 2002 Associates in Networking Technology - Heald College – Portland, OR
 * 2001 Associates in Computer Technology - Heald College – Portland, OR
