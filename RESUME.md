@@ -60,10 +60,10 @@ Performed defect validation on a variety of hardware platforms and operating sys
 ## June 2013 - July 2017 :: Amazon Web Services; Amazon.com, Inc. :: Systems Engineer
 Worked on a team of 100+ engineers in DynamoDB and an internal service team of less than 10, provided automation and systems engineering expertise for both teams. Built multi-million dollar clusters, analyzed existing sets of software and automation systems to provide service gap analysis and document existing processes. Headed operations on a small team of software developers to provide an internal, top-tier service that provides distributed locks and metadata to all other services.
 
-## August 2012 - June 2013:: Big Fish Games :: Sr. Linux System Administrator
+## August 2012 - June 2013 :: Big Fish Games :: Sr. Linux System Administrator
 Part of an all Senior level team that focuses on Business and Infrastructure Projects while maintaining several hundred linux servers. Help maintain a CFengine2 environment. Leverage multiple Xen environments in production and development environments. Deployed and maintained environments for 3rd party developers and server side components for games.
 
-## March 2012 - Aug. 2012 :: Intel via E-Tech Resources :: Hardware/Software Test Engineer
+## March 2012 - August 2012 :: Intel via E-Tech Resources :: Hardware/Software Test Engineer
 Performed driver and software validation in ESX 5.1 and KVM virtualized environments with a focus on SR-IOV and VMDQ in 10Gb/s LAN adapters. Responsible for own testing environment: maintain and configure dedicated testing servers and LAN equipment
 
 ## August 2010 - December 2011  ::  Xpressbet, LLC  ::  Linux System Administrator
