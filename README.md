@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there! 👋
+To learn more about my professional background, feel free to check out my [resume](RESUME.md).
 
 <!--
 **ravenoak/ravenoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
