@@ -1,36 +1,39 @@
-# Objective
-To obtain a challenging position where I can leverage my extensive experience in software engineering, leadership, and diverse technical skills to drive innovation and deliver exceptional results.
-
 # Summary
-Dynamic and creative professional with over two decades of experience in software engineering, system administration, and technical leadership roles. Proven track record of solving complex problems, implementing innovative solutions, and driving operational excellence. Seeking opportunities to apply my diverse skill set and domain expertise in a dynamic and challenging environment.
+* Technically-astute and critical-thinking engineering professional leader accomplished in multiple areas of software development with creative approaches to drive innovation by meeting challenges head-on to deliver exceptional solutions in ever-evolving environments requiring adaptability and decisiveness to succeed.
 
-# Skills
-* **Security and Compliance**: threat detection, vulnerability management, compliance frameworks (SOC2, SOX), incident response, security best practices
-* **Cloud Platforms**: AWS (EC2, EKS, RDS, GuardDuty, WAF, Multi-Account structure), GCP (Compute Engine, GKE, Deployment Manager), OpenStack, GitHub Enterprise
-* **Web Platforms**: nginx, Apache httpd, WSGI, Flask, Echo, gRPC
-* **Programming Languages**: Python, Golang, Perl, Bash, Java, C/C++, Git
-* **DevOps Tools**: CircleCI, Terraform, Ansible, Jenkins, Continuous Integration/Deployment
-* **Databases**: MySQL, PostgreSQL, SQLite, NoSQL, DynamoDB, Graph Databases
-* **Hardware**: Dell, HP, Sun Microsystems, IBM, Brocade, Juniper, NetApp, Cisco, whitebox
-* **Virtualization/Containers**: Kubernetes, Docker, KVM/QEMU+libvirt, vSphere/ESX, Xen
-* **System Administration**: Kerberos, OpenLDAP, Samba, 389 Directory Server, RPM Packaging
-* **Monitoring and Logging**: Lacework, Data Dog, New Relic, ELK, Prometheus, Grafana, Splunk, Stackdriver, SNMP, Syslog
-* **Networking Technologies**: SDN, Open vSwitch, FCoE, Converged Networks, iSCSI, FibreChannel, Routers, Switches, WireShark
+* A versatile software engineer who likes to explore and is not afraid of new technologies with a wide range of abilities in diverse areas that include simple circuit design, mixed digital and analog, embedded electronics, FPGAs, and microprocessors. Other interests include machine learning, CNC tools, micro-manufacturing, along with aquaponics, and non-traditional farming techniques. Other exploration has led to welding and metal fabrication, plus, basic avionics, and unmanned autonomous vehicle design.
 
-# Accomplishments
-* Led the transformation of the team from a primarily service desk style to a more proactive and automation-driven approach.
-* Implemented Infrastructure as Code (IaC) practices using Terraform, resulting in more efficient resource management and deployment processes.
-* Developed self-serve processes for AWS permissions granting, reducing dependency on manual intervention and accelerating project timelines.
-* Designed and maintained systems in Golang for automating on/offboarding processes, leading to significant time savings and improved operational efficiency.
-* Enhanced an in-house Kubernetes Controller to synchronize secrets between HashiCorp Vault and Kubernetes Secrets, ensuring secure and seamless integration of sensitive information.
-* Developed tools and solutions to migrate fragile and deprecated software, minimizing downtime and ensuring smooth transitions for critical systems.
-* Spearheaded the development of a comprehensive network monitoring solution using OpenNMS, replacing legacy systems and significantly reducing administration overheads and costs.
-* Led the maintenance and enhancement of a robust configuration management system based on Cfengine3 and Perl, streamlining software release processes and enabling automation of cluster builds.
-* Analyzed existing software and automation systems, identifying areas for improvement and implementing solutions to enhance operational efficiency and reliability.
-* Architected and managed large-scale clusters spanning hundreds of servers, optimizing performance and reliability for low-latency data access in distributed environments.
-* Managed large-scale Linux server environments, ensuring high availability and reliability for business-critical applications.
-* Implemented and maintained configuration management tools, streamlining software deployment and ensuring consistency across environments.
-* Deployed and maintained virtualized environments, leveraging technologies such as Xen and VMware ESX for efficient resource utilization and scalability.
+* Leads-by-example to foster a culture of motivation, respect, and accountability to deliver top-performance and informed decision-making for individual, team, and organizational success.
+
+
+# Career Highlights
+* **Automation –** Spearheaded the transformation of the team from a primarily service-desk-style to a more proactive and automation-driven approach.
+* **Infrastructure –** Piloted the Infrastructure-as-Code (IaC) practices using Terraform that delivered improved resource management and deployment processes.
+* **Self-Serve Processes –** Created self-serve processes to grant AWS permissions that significantly reduced dependency on manual intervention and accelerated project timelines.
+* **Increased Efficiency –** Designed system to automate the on- and offboarding processes to production and third-party resources that resulted in significant savings of time and enhanced operational efficiency.
+* **Security –** Improved seamless integration and security of sensitive information with synchronization of system.
+* **Software Migration –** Developed solutions to migrate fragile and depreciated software that minimized downtime and ensured a smooth transition for critical systems that facilitated engineer and machine-authentication and service secrets.
+* **Network Monitoring Solution –** Pioneered the development of a complex network monitoring solution using OpenNMS that replaced legacy systems and significantly reduced administration overhead and costs.
+* **Configuration Management –** Successfully revamped the software release processes to deliver a robust configuration management system that enabled automation of cluster builds and ensured consistency.
+* **Server Clusters –** Architected large-scale clusters spanning hundreds of servers to improve reliability while optimizing performance for low-latency data access in distributed environments.
+* **Increased Availability –** Achieved increased availability as well as reliability with leadership of large-scale Linux servers for business-critical applications.
+* **Virtualization –** Deployed and maintained virtualized environments to leverage technologies for efficient scalability and resource utilization.
+* **Exploration –** A thirst for learning leads to exploration of new technologies including Machine Learning, Natural Language Processing Techniques, Avionics, and Unmanned Autonomous Vehicle (UAV) design.
+* **3rd Party MDR –** Succeeded in integrating various systems into a third-party MDR that provided Tier 1 SOC capabilities as well.
+
+# Areas of Expertise | Tools | Technologies | Industry Concepts
+* **Security & Compliance:** Threat Detection | Vulnerability Management | Compliance Frameworks: SOC2, SOX | Incident Response | Security Best Practices | Data Loss Prevention
+* **Cloud Platforms:** AWS: EC2, EKS, RDS, GuardDuty, WAF, Multi-Account Structure | GCP: Compute Engine, GKE, Deployment Manager | OpenStack | GitHub Enterprise | Okta | Lacework | Crowdstrike | Red Canary
+* **Web Platforms:** Apache httpd | nginx | WSGI | Flask | Echo | gRPC | Django | API Routers
+* **Programming:** Python | Golang | Perl | Bash | Java | C/C++ | Git | Jira | Jenkins
+* **Configuration Management:** Terraform | Ansible | Cfengine
+* **Databases:** MySQL | PostgreSQL | SQLite | NoSQL | DynamoDB | Graph Databases
+* **Hardware:** Dell | HP | Sun Microsystems | IBM | Brocade | Juniper | NetApp | Cisco | Whitebox | IPMI
+* **Virtualization / Containers:** Kubernetes | Docker | KVM/QEMU+libvirt | vSphere/ESX | Xen | OpenStack
+* **Administration:** Kerberos | OpenLDAP | Samba | 389 directory Server | RPM Packaging
+* **Monitoring:** Data Dog | New Relic | ELK | Prometheus | Grafana | Splunk | Stackdriver | SNMP | Syslog | Fluentd | PagerDuty
+* **Networking:** SDN | Open vSwitch | FCoE | Converged Networks | iSCSI | FibreChannel | Routers | Switches | WireShark
+* **Industry Concepts:** GitOps | CI/CD | Observability | Operational Readiness | Configuration Management | Infrastructure as Code | MLOps | Dataset Management | Lake House |Data Lake | Synthetic Dataset Creation | AI Model Fine-tuning | Data Science | Device Management | Endpoint Security | Single Sign-On | Multi-Factor Authentication | Encryption | Continuous Integration and Deployment (CI/CD)
 
 # Personal Projects and Skills
 My diverse interests and projects include:
@@ -45,23 +48,37 @@ My diverse interests and projects include:
 * Holding an FCC HA (Amateur) General License: KG7RTB
 
 # Professional Experience
-## October 2022 - January 2024 :: CircleCI :: Sr. Security Engineer
-Lead effort to transform the team from a primarily service desk style team, freeing up time to focus on investigating events. Used Terraform to migrate resources to a IaC paradigm. Provided Terraform expertise to the team. Created and continuously improved a self-serve process of AWS permissions granting. Utilized Lacework for monitoring and investigating events. Integrated various systems into a 3rd party MDR that also provided Tier 1 SOC capabilities.
+## October 2022 - February 2024 :: CircleCI :: Sr. Security Engineer
+* Security Operations – Performed on- and offboarding for security-sensitive critical applications. Investigated security events attained via various monitoring systems. 
+* Incident Commander – Led incident response with guidance to engineers during a security incident, recording of details, and compiling data in an Incident Report.
+* Job Migration – Identified areas of opportunity to relieve pressure of the Security Operations team with migration of some job duties to IT by documenting processes and training senior IT personnel to offboard procedures. Required identification of “low-hanging fruit” that provided the greatest impact with least amount of complexity during the transfer.
+* Security Advisor – Mentored and provided ad-hoc security advice to engineers as needed.
+* Compliance – Collaborated with the Compliance Team to facilitate audits performed by external entities and supported teams in any security issues submitted by the external entities or customers.
+* Maintenance – Ensured monitoring and maintenance or finetuning of software to improve signal-to-noise ratio.
+* Major Projects – See highlights for Infrastructure, Self-Serve Processes, and 3rd Party MDR projects.
 
 ## May 2019 - October 2021 :: New Relic, Inc :: Sr. Software Engineer
-Designed and maintained systems in Golang for automating on/offboarding to production and 3rd party resources. Updated and modified an in-house Kubernetes Controller that synchronized secrets between HashiCorp Vault and Kubernetes Secrets. Developed tools and solutions to migrate fragile and deprecated software for systems that facilitated engineer and machine authentication and service secrets.
+* On/Off Boarding System – Enhanced the functionality and introduced Terraform code to provide self-service access and permissions granting to third-party resources. Migrated later to a simpler version that performed the ETL functionality while supporting more programming-like behavior.
+* HashiCorp Vault – Researched opportunities to provide native support of secrets stored in HashiCorp Vault and updated the cluster to improve operational readiness and visibility in monitoring and alerting systems. This required no downtime as the rest of the company relied on Vault serving up secrets for the internal services.
 
 ## December 2017 - January 2019 :: (Urban) Airship :: Sr. Operations Engineer
-Developed and maintained a set of Google Deployment Manager templates for product engineers to consume, acted as automation and SRE evangelist and provided best practices for service design and deployment. Maintained monitoring and log capture systems. Worked on cost analysis projects to characterize and provide cloud usage data.
+* Deployment Manager – Automation and SRE Evangelist for design of templates and to provide best practices service design and deployment for product engineers.
+* Systems Log – Maintained and monitored the log capture systems.
+* Cost Analysis – Assisted with projects providing cost analysis for cloud usage data.
 
 ## October 2017 - December 2017 :: Intel via Maven Companies :: Validation Engineer IV
-Performed defect validation on a variety of hardware platforms and operating systems using Intel networking cards and modules. Needed to be able to configure test infrastructure, including blade chassis, 10/25/40/100G switches. Worked with multiple hypervisors to test guest network drivers, including SR-IOV virtual functions.
+* Defect Validation – Utilized Intel networking cards and modules for defect validation of hardware platforms and operating systems, requiring ability to configure test infrastructure for blade chassis and 10/25/40/100G switches.
+* Testing – Tested guest-network drivers and SR-IOV virtual functions using multiple hypervisors.
 
 ## June 2013 - July 2017 :: Amazon Web Services; Amazon.com, Inc. :: Systems Engineer
-Worked on a team of 100+ engineers in DynamoDB and an internal service team of less than 10, provided automation and systems engineering expertise for both teams. Built multi-million dollar clusters, analyzed existing sets of software and automation systems to provide service gap analysis and document existing processes. Headed operations on a small team of software developers to provide an internal, top-tier service that provides distributed locks and metadata to all other services.
+* Systems Engineering – Member of a team of 100+ engineers in DynamoDB, along with an internal service team of ~ ten providing automation and systems engineering.
+* Clusters – Built multi-million-dollar clusters providing analysis of existing sets of software and automation systems for service gap analysis and documentation of existing processes.
+* Operational Team – Leader of a small team of software developers providing top-tier internal service that distributed locks and metadata to all other services.
 
 ## August 2012 - June 2013 :: Big Fish Games :: Sr. Linux System Administrator
-Part of an all Senior level team that focuses on Business and Infrastructure Projects while maintaining several hundred linux servers. Help maintain a CFengine2 environment. Leverage multiple Xen environments in production and development environments. Deployed and maintained environments for 3rd party developers and server side components for games.
+* Senior Project Team – Member of team focused on Business and Infrastructure projects along with maintenance of several hundred Linux servers. 
+Maintenance – Maintained a CFengine2 environment with leveraging of multiple Xen environments in development and production environments.
+* 3rd Party Developers – Managed deployment and maintenance of environments for 3rd party developers and server-side components for games.
 
 ## March 2012 - August 2012 :: Intel via E-Tech Resources :: Hardware/Software Test Engineer
 Performed driver and software validation in ESX 5.1 and KVM virtualized environments with a focus on SR-IOV and VMDQ in 10Gb/s LAN adapters. Responsible for own testing environment: maintain and configure dedicated testing servers and LAN equipment
